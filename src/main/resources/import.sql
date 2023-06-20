@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luciana Brown', '985542570731', 2190.0, '2000-07-25', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Neymar Junior', '83320974017', 3000.0, '1989-04-13', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Julio Cavalcanti', '31941945007', 2200.0, '1990-12-23', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos', '24785177012', 3500.0, '2002-03-05', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bob Brown', '14397868018', 4873.0, '1983-02-17', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Silveira', '54470920002', 2300.0, '1998-01-12', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rubens dias', '27910576099', 1100.0, '2001-04-23', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Diego Maradona', '44668842001', 1800.0, '2003-06-29', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pelé Santos', '64269285001', 2500.0, '2002-07-30', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sara Barbosa', '19303197038', 5000.0, '2005-09-11', 1);
